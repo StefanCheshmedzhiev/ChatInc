@@ -1,0 +1,8 @@
+C:\Users\Stefan\Desktop\ASP.NET-Core-master\Chat-Inc-Web-API\ChatInc\ChatInc.Domain\bin\Debug\netcoreapp2.2\ChatInc.Domain.deps.json
+C:\Users\Stefan\Desktop\ASP.NET-Core-master\Chat-Inc-Web-API\ChatInc\ChatInc.Domain\bin\Debug\netcoreapp2.2\ChatInc.Domain.dll
+C:\Users\Stefan\Desktop\ASP.NET-Core-master\Chat-Inc-Web-API\ChatInc\ChatInc.Domain\bin\Debug\netcoreapp2.2\ChatInc.Domain.pdb
+C:\Users\Stefan\Desktop\ASP.NET-Core-master\Chat-Inc-Web-API\ChatInc\ChatInc.Domain\obj\Debug\netcoreapp2.2\ChatInc.Domain.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\ASP.NET-Core-master\Chat-Inc-Web-API\ChatInc\ChatInc.Domain\obj\Debug\netcoreapp2.2\ChatInc.Domain.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\ASP.NET-Core-master\Chat-Inc-Web-API\ChatInc\ChatInc.Domain\obj\Debug\netcoreapp2.2\ChatInc.Domain.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\ASP.NET-Core-master\Chat-Inc-Web-API\ChatInc\ChatInc.Domain\obj\Debug\netcoreapp2.2\ChatInc.Domain.dll
+C:\Users\Stefan\Desktop\ASP.NET-Core-master\Chat-Inc-Web-API\ChatInc\ChatInc.Domain\obj\Debug\netcoreapp2.2\ChatInc.Domain.pdb
