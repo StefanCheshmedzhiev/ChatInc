@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.App\\ChatInc.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.App\\ChatInc.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.App\\ChatInc.App.csproj",
+        "projectName": "ChatInc.App",
+        "projectPath": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.App\\ChatInc.App.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Data\\ChatInc.Data.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Data\\ChatInc.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Data\\ChatInc.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Data\\ChatInc.Data.csproj",
+        "projectName": "ChatInc.Data",
+        "projectPath": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Data\\ChatInc.Data.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Domain\\ChatInc.Domain.csproj": {
+                "projectPath": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Domain\\ChatInc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Domain\\ChatInc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Domain\\ChatInc.Domain.csproj",
+        "projectName": "ChatInc.Domain",
+        "projectPath": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Domain\\ChatInc.Domain.csproj",
+        "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefan\\Desktop\\ASP.NET-Core-master\\Chat-Inc-Web-API\\ChatInc\\ChatInc.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
